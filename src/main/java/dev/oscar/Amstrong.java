@@ -3,7 +3,7 @@ package dev.oscar;
 public class Amstrong {
 
   
-
+   
    
         public static boolean isNumberAmstrong(int num) {
             int OrigNum;
